@@ -9,7 +9,7 @@ AHEAD2020 aims to provide young astronomers with the specific theoretical and pr
 
 This Github organization contains the materials for the hands-on sessions offered during the school. Feel free to use these materials for your
 own purpose. These session materials can be cited using their Zenodo upload. Our 
-[Zenodo community page](https://zenodo.org/communities/ahead2020_alicante) contains an overview of all uploads.
+[Zenodo community page](https://zenodo.org/communities/ahead2020_alicante) contains an overview of all uploads, including presentations.
 
 The [hands-on sessions website](https://summerschool-ahead2020.github.io/hands-on-sessions/index.html) contains a human readable overview of all 
 the available sessions with exercise descriptions.
